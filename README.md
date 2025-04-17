@@ -20,7 +20,7 @@ The main server (Nether Spider) uses proxies to fetch public steam accounts from
 Doing public accounts without this tool is very insecure, people can easily see your ip address and remotely access your computer with steam remote play without any pin due to account settings. This tool ensures security by using a sandboxed Steam client blocking every request but authentication only, and runs steam in offline mode.
 
 Nether Spider uses residential proxies in order to login and verify game ownership and access to the account, making it seamless for you to get a working account without hassle!
-This tool would allow you to seamlessly "demo" every game by giving you a public steam account, which also can download workshop mods!
+This tool would allow you to seamlessly "demo" every game by giving you a working public steam account for the game selected, which also can download workshop mods using built in NetherWorkshopDownloader 4 Lite!
 
 
 Not hosting any copyrighted material, just fetching public steam accounts.
