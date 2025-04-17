@@ -1,6 +1,6 @@
 # Nether Steam Downloader 🚀
 
-Welcome to **Nether Steam Downloader**, a community-driven, free tool to access Steam Workshop mods and "demo" games securely using NetherSpider a public Steam account scraper. Powered by **NetherSpider**, our proprietary crawler, this tool makes downloading mods and games effortless while prioritizing your security.
+Welcome to **Nether Steam Downloader**, a community-driven, free "educational" tool to access Steam Workshop mods and "demo" games securely using NetherSpider a public Steam account scraper. Powered by **NetherSpider**, our proprietary crawler, this tool makes downloading mods and games effortless while prioritizing your security.
 
 *Not affiliated with @NethercraftMC5608. ;)*
 ## [Join the community on Discord — for support, updates, and exclusive stuff.](https://discord.gg/bs9TMxMJk9)
