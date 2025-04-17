@@ -3,7 +3,7 @@
 Not made by @NethercraftMC5608
 ## [Join the community on Discord — for support, updates, and exclusive stuff.](https://discord.gg/bs9TMxMJk9)
 
-### Download Steam Workshop Mods and Games by using a database of working public accounts! NetherSpider.
+### Download Steam Workshop Mods and Games by using a database of scraped and working public accounts! NetherSpider.
 A absolutely free community supported steam workshop downloader and steam game downloader, using Nether Spider (propietary due to not wanting it to be patched) to crawl public accounts from "steam game sharing websites" automatically.
 
 ## Please Donate:
