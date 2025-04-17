@@ -1,31 +1,96 @@
-# Nether-Steam-Downloader
-(Not) Nether's Steam Downloader.
-Not made by @NethercraftMC5608
+# Nether Steam Downloader 🚀
+
+Welcome to **Nether Steam Downloader**, a community-driven, free tool to access Steam Workshop mods and "demo" games securely using NetherSpider a public Steam account scraper. Powered by **NetherSpider**, our proprietary crawler, this tool makes downloading mods and games effortless while prioritizing your security.
+
+*Not affiliated with @NethercraftMC5608. ;)*
 ## [Join the community on Discord — for support, updates, and exclusive stuff.](https://discord.gg/bs9TMxMJk9)
 
-### Download Steam Workshop Mods and Games by using a database of scraped and working public accounts! NetherSpider.
-A absolutely free community supported steam workshop downloader and steam game downloader, using Nether Spider (propietary due to not wanting it to be patched) to crawl public accounts from "steam game sharing websites" automatically.
+---
 
-## Please Donate:
+## 🌟 Features
 
-💸 Fuel the proxies, feed the coder.
-Donate to cover proxy costs (and maybe a Big Mac or two). Appreciate ya. ❤️
-Tust 1 dollar could make a difference.
+- **Download Steam Workshop Mods**: Access mods for your favorite games with ease.
+- **"Demo" Games Securely**: Try games using public Steam accounts fetched by NetherSpider.
+- **NetherWorkshopDownloader 4 Lite**: Built-in mod downloader for seamless Workshop integration, getting authentication with public steam accounts!
+- **Enhanced Security**: Runs Steam in offline mode within a sandboxed client, blocking all non-authentication requests to protect your privacy.
+- **No Copyrighted Material**: We only fetch publicly shared Steam accounts :)
+- **Downloads Locally**: The API only sends credentials in order to authenticate, all downloads are from steam and locally processed!
 
-Thanks to all the donators, really appreciate you fr :)
+---
 
-The main server (Nether Spider) uses proxies to fetch public steam accounts from various websites. Which then Nether Steam Downloader interfaces with the API, when searching a game, you can get a public account for it to download workshop mods for it and download and install the game.
+## 🔒 Why Use Nether Steam Downloader?
+
+Steam’s Family Sharing and account-sharing features make it easy to access games, but doing so on public accounts can expose your IP address and leave your system vulnerable to unauthorized remote access. **Nether Steam Downloader** solves this by:
+
+- Using **residential proxies** to securely verify game ownership and account access.
+- Running a **sandboxed Steam client** that blocks all non-essential requests.
+- Operating Steam in **offline mode** to prevent remote play vulnerabilities.
+
+With Nether Steam Downloader, you can demo games and download mods hassle-free, all while staying secure.
+
+---
+
+## 🕷️ How It Works
+
+Our proprietary **NetherSpider** crawler scours "Steam game sharing" websites to find public accounts with access to your desired games. Here’s the process:
+
+1. **Search**: Enter a game or mod in Nether Steam Downloader.
+2. **Fetch**: NetherSpider uses residential proxies to retrieve a verified public Steam account.
+3. **Download**: Access the game or mod via a secure, sandboxed Steam client.
+4. **Enjoy**: Play or mod your game in offline mode, worry-free!
 ![diagram](https://github.com/user-attachments/assets/a9128f5b-ce26-420b-adb0-a1a192b08cbc)
 
-Doing public accounts without this tool is very insecure, people can easily see your ip address and remotely access your computer with steam remote play without any pin due to account settings. This tool ensures security by using a sandboxed Steam client blocking every request but authentication only, and runs steam in offline mode.
+---
 
-Nether Spider uses residential proxies in order to login and verify game ownership and access to the account, making it seamless for you to get a working account without hassle!
-This tool would allow you to seamlessly "demo" every game by giving you a working public steam account for the game selected, which also can download workshop mods using built in NetherWorkshopDownloader 4 Lite!
+## 🛠️ Getting Started
 
+1. **Download**: Grab the latest release from our Releases page.
+2. **Install**: Follow the setup instructions in the installer.
+3. [**Join the Community**: Get support, updates, and exclusive content on our Discord server.](https://discord.gg/bs9TMxMJk9)
+4. **Search & Download**: Launch the tool, search for a game or mod, and let NetherSpider do the rest!
 
-Not hosting any copyrighted material, just fetching public steam accounts.
+---
 
-Why does this work?
+## 💸 Support the Project
 
-Due to Valves approach of family sharing, and sharing accounts in total is easy.
-<img src="https://github.com/user-attachments/assets/7501716d-dff2-4ff6-a17e-1113495d80d5" width=50px>
+Running NetherSpider requires residential proxies, which aren’t cheap. Your donations help keep the tool free and running smoothly (and maybe buy the coder a Big Mac 🍔). Even $1 makes a difference!
+
+**Donate Now**\
+Thanks to all the donators, really appreciate you fr :) ❤️
+
+---
+We don’t host or distribute copyrighted material. We only fetch publicly available Steam accounts, leveraging Valve’s Family Sharing feature.
+## ❓ FAQ
+
+**Why is NetherSpider proprietary?**
+To prevent patches that could break the tool’s functionality, we keep NetherSpider’s code private.
+
+**Is it safe?**\
+Absolutely. Our sandboxed Steam client and offline mode ensure your IP and system remain secure.
+
+**Need help?**\
+Join our Discord community for support and updates.
+
+---
+
+## 🤝 Contributing
+
+We’re a community-driven project! Want to help?
+
+- **Report Bugs**: Submit issues on our GitHub Issues page.
+- **Suggest Features**: Share your ideas on Discord.
+- **Donate**: Keep the proxies running with a small contribution.
+
+---
+
+## 📜 Disclaimer
+
+Nether Steam Downloader is not affiliated with Valve or Steam. Use this tool responsibly and in accordance with Steam’s terms of service. For educational use, teaching steam API functions.<img src="https://github.com/user-attachments/assets/7501716d-dff2-4ff6-a17e-1113495d80d5" width=50px>
+
+---
+
+## 🌐 Connect with Us
+
+- [**Discord**: Join our community for support and updates.](https://discord.gg/bs9TMxMJk9)
+- **GitHub**: Star this repo and follow along!
+- **Donate**: Support the project.
