@@ -2,6 +2,8 @@
 (Not) Nether's Steam Downloader.
 Not made by @NethercraftMC5608
 ## [Join the community on Discord — for support, updates, and exclusive stuff.](https://discord.gg/bs9TMxMJk9)
+
+### Download Steam Workshop Mods and Games by using a database of working public accounts! NetherSpider.
 A absolutely free community supported steam workshop downloader and steam game downloader, using Nether Spider (propietary due to not wanting it to be patched) to crawl public accounts from "steam game sharing websites" automatically.
 
 ## Please Donate:
@@ -13,9 +15,10 @@ Tust 1 dollar could make a difference.
 Thanks to all the donators, really appreciate you fr :)
 
 The main server (Nether Spider) uses proxies to fetch public steam accounts from various websites. Which then Nether Steam Downloader interfaces with the API, when searching a game, you can get a public account for it to download workshop mods for it and download and install the game.
-![diagram](https://github.com/user-attachments/assets/30c6c6f5-496f-4c96-a814-99da25d4268a)
-Doing public accounts without this tool is very insecure, people can easily see your ip address and remotely access your computer with steam remote play without any pin due to account settings. This tool ensures security by blocking every request but authentication only, and runs steam in offline mode.
+![diagram](https://github.com/user-attachments/assets/a9128f5b-ce26-420b-adb0-a1a192b08cbc)
 
+Doing public accounts without this tool is very insecure, people can easily see your ip address and remotely access your computer with steam remote play without any pin due to account settings. This tool ensures security by blocking every request but authentication only, and runs steam in offline mode.
+Nether Spider uses residential proxies in order to login and verify game ownership and access to the account, making it seamless for you to get a working account without hassle!
 This tool would allow you to seamlessly "demo" every game by giving you a public steam account, which also can download workshop mods!
 
 
